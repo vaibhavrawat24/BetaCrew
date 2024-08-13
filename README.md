@@ -55,6 +55,4 @@ The JSON file containing the received packets will be generated in the project d
 
    <img width="295" alt="betacrew" src="https://github.com/user-attachments/assets/762f3518-5b1f-471a-baba-2219cf06696f">
 
-4. It also generated output.json file for the same
-
-
+4. At the end it generates the output.json file for the same.
