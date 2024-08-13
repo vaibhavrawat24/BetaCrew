@@ -47,4 +47,14 @@ The client will connect to the BetaCrew Mock Exchange Server, request stock tick
 ### 5. Review the Output
 The JSON file containing the received packets will be generated in the project directory. You can open this file to inspect the ordered packet data.
 
+### Sample test project:-
+
+1. Run node main.js
+2. Run node client.js
+3. Output:-
+
+   <img width="295" alt="betacrew" src="https://github.com/user-attachments/assets/762f3518-5b1f-471a-baba-2219cf06696f">
+
+4. It also generated output.json file for the same
+
 
